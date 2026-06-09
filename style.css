@@ -73,6 +73,13 @@ nav {
     display: none;
   }
 
+  .nav-text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
   .nav-links a {
     margin: 10px 0;
   }
